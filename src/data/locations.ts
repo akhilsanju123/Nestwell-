@@ -1,0 +1,5 @@
+export const locations = [
+  { slug: 'visakhapatnam', name: 'Visakhapatnam', kicker: 'Coastal energy', description: 'Our coastal portfolio brings you closer to Vizag’s beach roads, IT corridors, education hubs, and everyday city life.', image: 'https://images.pexels.com/photos/11201060/pexels-photo-11201060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940', projects: ['Ocean View Heights', 'Cyber Hills Enclave'] },
+  { slug: 'vizianagaram', name: 'Vizianagaram', kicker: 'Room to grow', description: 'Connected township living around NH-16, ring road access, and the city’s emerging residential story.', image: 'https://images.pexels.com/photos/7104646/pexels-photo-7104646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940', projects: ['Golden County Layout'] },
+  { slug: 'rajahmundry', name: 'Rajahmundry', kicker: 'Godavari gateway', description: 'Explore land opportunities in a regional growth hub shaped by trade, logistics, and the Godavari landscape.', image: 'https://images.pexels.com/photos/16754490/pexels-photo-16754490.png?auto=compress&cs=tinysrgb&h=650&w=940', projects: [] },
+];

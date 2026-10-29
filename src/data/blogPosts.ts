@@ -1,0 +1,5 @@
+export const blogPosts = [
+  { slug: 'how-to-choose-a-plot', category: 'Buying guide', date: '06 Sep 2026', title: 'How to choose a plot that fits your next chapter', excerpt: 'A practical way to compare location, access, approvals, plot size, and the kind of life you want to build.', image: 'https://images.pexels.com/photos/2516858/pexels-photo-2516858.jpeg?auto=compress&cs=tinysrgb&h=650&w=940' },
+  { slug: 'bhogapuram-growth-corridor', category: 'Locations', date: '18 Aug 2026', title: 'Understanding the AP coastal growth corridors', excerpt: 'What to look for when exploring emerging locations across Visakhapatnam and Vizianagaram.', image: 'https://images.pexels.com/photos/7104646/pexels-photo-7104646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940' },
+  { slug: 'site-visit-checklist', category: 'NestWell guide', date: '02 Aug 2026', title: 'Your simple checklist for a better site visit', excerpt: 'The questions, documents, and observations that help turn a visit into a confident next step.', image: 'https://images.pexels.com/photos/14173845/pexels-photo-14173845.jpeg?auto=compress&cs=tinysrgb&h=650&w=940' },
+];
